@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(openspec new:*)",
+      "Bash(openspec status:*)",
+      "Bash(openspec instructions:*)",
+      "Bash(openspec list:*)",
+      "Bash(npm run:*)",
+      "Bash(npx tsc:*)",
+      "Bash(curl -s http://localhost:8080)",
+      "Bash(npm install:*)",
+      "Bash(npx jest:*)",
+      "Bash(curl -s http://localhost:8000)",
+      "mcp__plugin_everything-claude-code_playwright__browser_navigate",
+      "mcp__plugin_everything-claude-code_playwright__browser_file_upload"
+    ]
+  }
+}

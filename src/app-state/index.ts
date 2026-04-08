@@ -59,6 +59,7 @@ export enum SortField {
   SYMBOL_NAME,
   SELF,
   TOTAL,
+  CHILDREN,
 }
 
 export enum SortDirection {
